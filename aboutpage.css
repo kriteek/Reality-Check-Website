@@ -1,0 +1,11 @@
+body{
+background-image: url('background1.png');
+background-repeat: no-repeat;
+background-size: cover;
+}
+h3{
+font-style: italic
+}
+h4{
+font-family: verdana;
+}
